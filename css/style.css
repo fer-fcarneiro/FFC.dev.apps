@@ -11,9 +11,9 @@ img {
 
 
 .container {
-  max-width: 900px;
+  max-width: 1000px;
   margin: auto;
-  padding: 20px;
+  padding: 10px;
 }
 
 header {
@@ -71,8 +71,8 @@ footer {
 }
 /* Logo do rodapé */
 .logo-footer {
-  width: 250px;
-  height:150px;      /* ajuste se quiser */
+  width: 270px;
+  height:130px;      /* ajuste se quiser */
   margin-left: 10%;
   margin: 30px auto;
 }
@@ -84,7 +84,7 @@ footer {
   display: block;
   margin: 0 auto 12px;
 }
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   .logo-footer {
     height: 45px;
   }
